@@ -1,0 +1,339 @@
+[
+  {
+    "id": 1,
+    "name": "Noir Elegance",
+    "shortDesc": "Warm & Sensual",
+    "fullDesc": "Noir Elegance blends amber, patchouli and vanilla for evening wear.",
+    "category": "oriental",
+    "price": 1299,
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 799
+      },
+      {
+        "size": "50ml",
+        "price": 1299
+      },
+      {
+        "size": "100ml",
+        "price": 1899
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Noir+Elegance+1",
+      "https://via.placeholder.com/900x900?text=Noir+Elegance+2"
+    ],
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Blossom Mist",
+    "shortDesc": "Fresh Floral Bouquet",
+    "fullDesc": "A delicate mix of peony, jasmine and white musk. Perfect for daytime.",
+    "category": "floral",
+    "price": 899,
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 599
+      },
+      {
+        "size": "50ml",
+        "price": 899
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Blossom+Mist+1",
+      "https://via.placeholder.com/900x900?text=Blossom+Mist+2"
+    ],
+    "createdAt": "2025-09-20T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Ocean Breeze",
+    "shortDesc": "Citrus Aquatic Freshness",
+    "fullDesc": "Opens with bright bergamot and sea salt accords for a crisp finish.",
+    "category": "fresh",
+    "price": 999,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 999
+      },
+      {
+        "size": "100ml",
+        "price": 1499
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Ocean+Breeze+1"
+    ],
+    "createdAt": "2025-08-15T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Velvet Oud",
+    "shortDesc": "Rich Oud & Saffron",
+    "fullDesc": "Luxurious oud balanced with saffron and smoked cedar.",
+    "category": "oriental",
+    "price": 1999,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 1999
+      },
+      {
+        "size": "100ml",
+        "price": 2699
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Velvet+Oud+1",
+      "https://via.placeholder.com/900x900?text=Velvet+Oud+2"
+    ],
+    "createdAt": "2025-07-01T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Citrus Glow",
+    "shortDesc": "Zesty & Bright",
+    "fullDesc": "Uplifting bergamot and orange blossom to energize your day.",
+    "category": "fresh",
+    "price": 699,
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 499
+      },
+      {
+        "size": "50ml",
+        "price": 699
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Citrus+Glow+1"
+    ],
+    "createdAt": "2025-09-01T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Velvet Rose",
+    "shortDesc": "Deep Rose Boudoir",
+    "fullDesc": "A modern rose with leather and amber for a sensual finish.",
+    "category": "floral",
+    "price": 1499,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 1499
+      },
+      {
+        "size": "100ml",
+        "price": 2199
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Velvet+Rose+1"
+    ],
+    "createdAt": "2025-06-11T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Amber Nights",
+    "shortDesc": "Smoky Amber Trail",
+    "fullDesc": "An intoxicating blend of amber, benzoin and warm spices.",
+    "category": "oriental",
+    "price": 1399,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 1399
+      },
+      {
+        "size": "100ml",
+        "price": 2099
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Amber+Nights+1"
+    ],
+    "createdAt": "2025-05-05T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Green Orchard",
+    "shortDesc": "Crisp Apple & Cedar",
+    "fullDesc": "A crisp fruity scent with green apple and aromatic cedar heart.",
+    "category": "fresh",
+    "price": 799,
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 599
+      },
+      {
+        "size": "50ml",
+        "price": 799
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Green+Orchard+1"
+    ],
+    "createdAt": "2025-04-10T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Midnight Vetiver",
+    "shortDesc": "Earthy Vetiver",
+    "fullDesc": "Vetiver-forward composition with tobacco leaf and dry woods.",
+    "category": "woody",
+    "price": 1299,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 1299
+      },
+      {
+        "size": "100ml",
+        "price": 1899
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Midnight+Vetiver+1"
+    ],
+    "createdAt": "2025-03-20T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Saffron Silk",
+    "shortDesc": "Spiced Floral",
+    "fullDesc": "Bright saffron top notes with a floral heart and soft vanilla base.",
+    "category": "oriental",
+    "price": 1799,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 1799
+      },
+      {
+        "size": "100ml",
+        "price": 2499
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Saffron+Silk+1"
+    ],
+    "createdAt": "2025-02-14T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Lavender Dusk",
+    "shortDesc": "Calming Lavender",
+    "fullDesc": "A soothing aromatic lavender blend with balsamic undertones.",
+    "category": "aromatic",
+    "price": 749,
+    "variants": [
+      {
+        "size": "30ml",
+        "price": 499
+      },
+      {
+        "size": "50ml",
+        "price": 749
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Lavender+Dusk+1"
+    ],
+    "createdAt": "2024-11-01T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Pearl Musk",
+    "shortDesc": "Clean Musk",
+    "fullDesc": "Subtle musk with iris and soft woods for a clean elegant scent.",
+    "category": "musk",
+    "price": 899,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 899
+      },
+      {
+        "size": "100ml",
+        "price": 1299
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Pearl+Musk+1"
+    ],
+    "createdAt": "2024-10-01T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Cocoa Noir",
+    "shortDesc": "Gourmand Cocoa",
+    "fullDesc": "A gourmand blend of dark chocolate, tonka bean and coffee.",
+    "category": "gourmand",
+    "price": 1099,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 1099
+      },
+      {
+        "size": "100ml",
+        "price": 1599
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Cocoa+Noir+1"
+    ],
+    "createdAt": "2024-09-10T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Tea & Bergamot",
+    "shortDesc": "Tea Accord Freshness",
+    "fullDesc": "A refined tea accord with bergamot and vetiver base - elegant and refined.",
+    "category": "fresh",
+    "price": 999,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 999
+      },
+      {
+        "size": "100ml",
+        "price": 1399
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Tea+Bergamot+1"
+    ],
+    "createdAt": "2024-08-01T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Leather Atlas",
+    "shortDesc": "Bold Leather",
+    "fullDesc": "A masculine leather fragrance with birch tar and spicy notes.",
+    "category": "leather",
+    "price": 1599,
+    "variants": [
+      {
+        "size": "50ml",
+        "price": 1599
+      },
+      {
+        "size": "100ml",
+        "price": 2199
+      }
+    ],
+    "images": [
+      "https://via.placeholder.com/900x900?text=Leather+Atlas+1"
+    ],
+    "createdAt": "2024-05-01T00:00:00Z"
+  }
+]
